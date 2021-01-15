@@ -2,7 +2,7 @@
 
 This website is all about how transaction happens between two customers.This website is developed using HTML,CSS,Bootstrap,SQL,PhpMyAdmin...
 # Steps to transfer money between two customers :
-1.Go to 'View all Customers'
+1.Go to 'View all Customers'<br>
 2.You can view the details of the customers
 3.At the bottom of the page click the transfer button for transferring amount.
 4.Enter the Sender's and receiver's id along with the amount to be transferred.
