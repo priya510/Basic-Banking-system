@@ -12,3 +12,5 @@ If users Click on View Details button they can see there name,email and remainin
 7.After the end of transaction the user will be redirected to the 'view all customers' page.<br>
 
 # Software used:Xampp,Sublime Text,PhpMyAdmin,MySql
+# How to run this project :
+First you need to open Xammp software in that you need to start Apache and MySql and then transaction will begin.
