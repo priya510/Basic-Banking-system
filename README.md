@@ -19,7 +19,5 @@ If users Click on View Details button they can see there name,email and remainin
 
 ### Software used:Xampp,Sublime Text,PhpMyAdmin,MySql
 ### How to run this project :
-> First you need to open Xammp software in that you need to start Apache and MySql and then transaction will begin.
-
-
+> First you need to open Xammp software in that you need to start Apache and MySql and then transaction will begin. <br>
 [Demo](https://youtu.be/yWGpFRGNB7o)
