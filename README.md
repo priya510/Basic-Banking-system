@@ -1,6 +1,7 @@
 # Basic Banking System Website
 
-This website is all about how transaction happens between two customers.This website is developed using HTML,CSS,Bootstrap,SQL,PhpMyAdmin...<br>
+This website is all about how transaction happens between two customers.This website is developed using HTML,CSS,Bootstrap,SQL,PhpMyAdmin...
+If users Click on View Details button they can see there name,email and remaining balance.<br>
 # Steps to transfer money between two customers :
 1.Go to 'View all Customers'.<br>
 2.You can view the details of the customers.<br>
@@ -10,4 +11,4 @@ This website is all about how transaction happens between two customers.This web
 6.If the id's are incorrect or amount is not possible to be transferred then 'transaction failed' message will be displayed.<br>
 7.After the end of transaction the user will be redirected to the 'view all customers' page.<br>
 
-# Software used:Xampp,Sublime Text
+# Software used:Xampp,Sublime Text,PhpMyAdmin,MySql
