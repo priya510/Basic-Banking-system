@@ -1,4 +1,7 @@
-# Basic Banking System Website
+<a href="https://github.com/priya510/Basic-Banking-system"><img height="30" src="https://img.shields.io/badge/Basic Banking System Website-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" /></a> <br> <br>
+
+![](https://img.shields.io/badge/Programming_Language-PHP-blue.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
 
 This website is all about how transaction happens between two customers.This website is developed using HTML,CSS,Bootstrap,SQL,PhpMyAdmin...
 If users Click on View Details button they can see there name,email and remaining balance.<br>
